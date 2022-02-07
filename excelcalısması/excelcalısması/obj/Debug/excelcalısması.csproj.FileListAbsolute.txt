@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\excelcalısması\excelcalısması\bin\Debug\excelcalısması.exe.config
+C:\Users\Administrator\source\repos\excelcalısması\excelcalısması\bin\Debug\excelcalısması.exe
+C:\Users\Administrator\source\repos\excelcalısması\excelcalısması\bin\Debug\excelcalısması.pdb
+C:\Users\Administrator\source\repos\excelcalısması\excelcalısması\obj\Debug\excelcalısması.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\excelcalısması\excelcalısması\obj\Debug\excelcalısması.Form1.resources
+C:\Users\Administrator\source\repos\excelcalısması\excelcalısması\obj\Debug\excelcalısması.Properties.Resources.resources
+C:\Users\Administrator\source\repos\excelcalısması\excelcalısması\obj\Debug\excelcalısması.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\excelcalısması\excelcalısması\obj\Debug\excelcalısması.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\excelcalısması\excelcalısması\obj\Debug\excelcalısması.exe
+C:\Users\Administrator\source\repos\excelcalısması\excelcalısması\obj\Debug\excelcalısması.pdb
